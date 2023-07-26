@@ -1,0 +1,13 @@
+{"fname":"Ala","lname":"Mohammad","class":"A","age":35,"technologies":["PHP","mySql"]}
+{"fname":"Adam","lname":"Graham","class":"B","age":16,"technologies":["javascrpt","MongoDB"]}
+{"fname":"Eva","lname":"Mullins","class":"B","age":20,"technologies":["Python","mySql"]}
+{"fname":"Willie'","lname":"Williamson","class":"C","age":26,"technologies":["C#","Sql"]}
+{"fname":"Bella","lname":"Weaver","class":"A","age":18,"technologies":["VB","Sql"]}
+{"fname":"Nicolas","lname":"Shelton","class":"B","age":21,"technologies":["PHP","mariaDB"]}
+{"fname":"Yasmin","lname":"Rogers","class":"A","age":16,"technologies":["Javascript","MongoDB"]}
+{"fname":"Adele","lname":"Drew","class":"B","age":24,"technologies":["PHP","mySql"]}
+{"fname":"Lillie","lname":"Bird","class":"A","age":30,"technologies":["Ruby","mySql"]}
+{"fname":"Sue","lname":"Mccoy","class":"A","age":29,"technologies":["GO","mySql"]}
+{"fname":"Amir","lname":"Richards","class":"B","age":28,"technologies":["C#","Oracle"]}
+{"fname":"Umar","lname":"Mccarthy","class":"C","age":25,"technologies":["Java","mySql"]}
+{"fname":"Ismail","lname":"Ryan","class":"A","age":36,"technologies":["PHP","mySql"]}
